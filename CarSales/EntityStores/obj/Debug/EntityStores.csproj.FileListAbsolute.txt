@@ -1,0 +1,1 @@
+C:\Users\jdarcy\Documents\GitHub\Software-development-and-process-management_CA1\CarSales\EntityStores\obj\Debug\EntityStores.csprojResolveAssemblyReference.cache
